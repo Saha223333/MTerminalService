@@ -1,0 +1,1 @@
+subst s: "%homepath%\AppData\Local\VirtualStore\Program Files (x86)\Slander\Db"
